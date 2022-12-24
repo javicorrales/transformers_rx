@@ -1,5 +1,5 @@
 # Trabajo final de master Ciencia de Datos, Universitat Oberta de Catalunya (UOC) #
-* Clasificación de imágenes radiológicas aplicando modelos Transformers *
+*Clasificación de imágenes radiológicas aplicando modelos Transformers*
 * Autor: Francisco Javier Corrales Estrella *
 * Tutor: Carlos Luis Sanchez Bocanegra *
 
