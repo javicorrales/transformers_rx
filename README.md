@@ -1,7 +1,7 @@
 # Trabajo final de master Ciencia de Datos, Universitat Oberta de Catalunya (UOC) #
-*Clasificación de imágenes radiológicas aplicando modelos Transformers*
-* Autor: Francisco Javier Corrales Estrella *
-* Tutor: Carlos Luis Sanchez Bocanegra *
+**Clasificación de imágenes radiológicas aplicando modelos Transformers**
+** Autor: Francisco Javier Corrales Estrella**
+**Tutor: Carlos Luis Sanchez Bocanegra**
 
 La detección temprana de enfermedades mediante el estudio de imágenes es clave para aumentar la esperanza de vida del paciente. Existen diferentes tipos de pruebas como radiografías, tomografía, resonancias magnéticas, mamografía, ecografía.
 La aplicación de técnicas de IA es una nueva forma de abordar este problema y que permite a los radiologos detectar enfermedades.
