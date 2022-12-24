@@ -1,5 +1,7 @@
-# transformers_rx
-## TFM en la aplicacion de transformers en la clasificacion de imagenes radiológicas ##
+# Trabajo final de master Ciencia de Datos, Universitat Oberta de Catalunya (UOC) #
+# Clasificación de imágenes radiológicas aplicando modelos Transformers #
+## Autor: Francisco Javier Corrales Estrella ##
+## Tutor: Carlos Luis Sanchez Bocanegra ##
 La detección temprana de enfermedades mediante el estudio de imágenes es clave para aumentar la esperanza de vida del paciente. Existen diferentes tipos de pruebas como radiografías, tomografía, resonancias magnéticas, mamografía, ecografía.
 La aplicación de técnicas de IA es una nueva forma de abordar este problema y que permite a los radiologos detectar enfermedades.
 Mediante el presente trabajo se pretente hacer una revisión del estado del arte de las  redes neuronales basadas en  Transformers para el diagostico por imágenes y realizar una aplicación práctica sobre un conjunto de imágenes para evaluar sus resultados.
